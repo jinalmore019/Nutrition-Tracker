@@ -1,4 +1,12 @@
 
+
+
+https://github.com/user-attachments/assets/519ba079-7aa2-4191-a123-5005e1d6ddbc
+
+
+
+https://github.com/user-attachments/assets/ed24ddcb-0904-4ae3-882c-abacf1e3c97f
+
 # 🍏 Nutri Track - Your Personal Nutrition Tracker  
 
 
@@ -80,10 +88,6 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 
 🌑 Screen Layouts:
-
-![Lord-Krishna-Playing-with-Flute-Hd-Image-Wallpaper](https://github.com/user-attachments/assets/e4d96772-f21f-45f9-8618-9224b61badf3)
-
-
 
 
 🌟 Support the Project

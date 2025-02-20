@@ -1,4 +1,3 @@
-![R](https://github.com/user-attachments/assets/4cea8fb0-c177-4e6c-8806-1c44050c4f8a)
 # 🍏 Nutri Track - Your Personal Nutrition Tracker  
 
 

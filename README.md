@@ -82,6 +82,7 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 ![dashboard](https://github.com/user-attachments/assets/17da6ea1-4ca2-42cc-90ed-9fc10c15a0af)
 
+![R](https://github.com/user-attachments/assets/08c88513-eb52-411a-8274-eb2dae404f5e)
 
 
 

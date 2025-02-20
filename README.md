@@ -43,3 +43,16 @@ Nutri Track is a smart nutrition tracking app that helps users monitor their dai
 1️⃣ **Clone the Repository**  
 ```sh
 git clone https://github.com/YourUsername/Nutri-Track.git
+
+2️⃣ Open the Project Folder
+    cd Nutri-Track
+
+3️⃣ Run the Project (If Hosted Locally)
+     Open index.html in your browser.
+
+📢 Contributing
+   We welcome contributions! Feel free to fork the repository and create pull requests.
+
+📄 License
+  This project is licensed under the MIT License.
+

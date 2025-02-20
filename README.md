@@ -57,4 +57,4 @@ git clone https://github.com/YourUsername/Nutri-Track.git
   This project is licensed under the MIT License.
 
 ## 🌐 Live Website  
-🔗 [Click Here to Open Nutri Track]()
+🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)

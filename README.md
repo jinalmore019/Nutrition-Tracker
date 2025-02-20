@@ -79,10 +79,8 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 
 🌑 Screen Layouts:
-![launching page](https://github.com/user-attachments/assets/a492372d-9332-47ff-b87b-4b176e1531c7)
 
-## 🌑 `Dashboard`
-![dashboard](https://github.com/user-attachments/assets/5038126f-b1fb-453a-9846-b1bc6a048fe1)
+![dashboard](https://github.com/user-attachments/assets/17da6ea1-4ca2-42cc-90ed-9fc10c15a0af)
 
 
 

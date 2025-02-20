@@ -81,8 +81,7 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 🌑 Screen Layouts:
 
-![Lord-Krishna-Playing-with-Flute-Hd-Image-Wallpaper](https://github.com/user-attachments/assets/81ba3c19-4bf8-4ebe-8afc-a55f0a31d826)
-
+![a2](https://github.com/user-attachments/assets/cf264fa5-006a-4128-981e-e9cf16893b15)
 
 
 

@@ -49,6 +49,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 ---
+Screen Layouts:
 
 ## 📂 Installation  
 

@@ -46,7 +46,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 🔹 Backend: Node.js, Express.js
 
 🔹 Database: MongoDB
-![dashboard](https://github.com/user-attachments/assets/61520d54-d062-4bcb-8cc2-e85cf6613393)
+
 
 🔹 Other Tools: GitHub, Postman, JWT Authentication
 

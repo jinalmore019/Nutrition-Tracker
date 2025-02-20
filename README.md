@@ -6,6 +6,12 @@ Nutri Track is a smart nutrition tracking app that helps users monitor their dai
 
 ---
 
+📖 Introduction
+Nutrition Tracker is a smart health tracking and meal planning application designed to help users manage their daily diet, track their calories, and maintain a healthy lifestyle. It provides personalized recommendations, real-time calorie tracking, BMI calculation, and water intake monitoring.
+
+Whether you are diet-conscious, a fitness enthusiast, or someone looking for a healthier lifestyle, this application helps track meals, monitor progress, and get nutritional insights.
+
+
 ## 🎥 Project Demo  
 ![Nutri Track Demo](assets/demo.gif)  
 
@@ -31,10 +37,12 @@ Nutri Track is a smart nutrition tracking app that helps users monitor their dai
 
 ---
 
-## 🔧 Tech Stack  
-🟢 **Frontend** → HTML, CSS, JavaScript  
-🟡 **Backend** → Firebase  
-🔵 **Database** → Firestore  
+🛠 Tech Stack
+🔹 Frontend: HTML, CSS, JavaScript
+🔹 Backend: Node.js, Express.js
+🔹 Database: MongoDB
+🔹 Other Tools: GitHub, Postman, JWT Authentication
+
 
 ---
 
@@ -58,3 +66,6 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 ## 🌐 Live Website  
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
+
+🌟 Support the Project
+⭐ If you like this project, give it a star on GitHub! 🚀

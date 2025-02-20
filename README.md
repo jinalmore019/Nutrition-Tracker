@@ -49,7 +49,8 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 ---
-Screen Layouts:
+
+
 
 ## 📂 Installation  
 
@@ -76,7 +77,11 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 
 ## 🌐 Live Website  
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
-Screen layouts
+
+
+🌑 Screen Layouts:
+
+
 
 
 

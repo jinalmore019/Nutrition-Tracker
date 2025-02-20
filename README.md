@@ -1,12 +1,4 @@
-
-
-
-https://github.com/user-attachments/assets/519ba079-7aa2-4191-a123-5005e1d6ddbc
-
-
-
-https://github.com/user-attachments/assets/ed24ddcb-0904-4ae3-882c-abacf1e3c97f
-
+![R](https://github.com/user-attachments/assets/4cea8fb0-c177-4e6c-8806-1c44050c4f8a)
 # 🍏 Nutri Track - Your Personal Nutrition Tracker  
 
 

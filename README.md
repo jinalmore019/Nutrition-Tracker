@@ -1,10 +1,12 @@
 # Nutrition_Tracker
 # 🍏 Nutri Track - Your Personal Nutrition Tracker  
 
+
 ### 📌 About  
 Nutri Track is a smart nutrition tracking app that helps users monitor their daily meals, calories, BMI, and water intake. It provides personalized meal recommendations, history tracking, and feedback features to maintain a healthy lifestyle.  
 
 ---
+
 
 📖 Introduction
 Nutrition Tracker is a smart health tracking and meal planning application designed to help users manage their daily diet, track their calories, and maintain a healthy lifestyle. It provides personalized recommendations, real-time calorie tracking, BMI calculation, and water intake monitoring.
@@ -16,6 +18,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ![Nutri Track Demo](assets/demo.gif)  
 
 ---
+
 
 ## 📌 Features  
 
@@ -37,6 +40,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 ---
 
+
 🛠 Tech Stack
 🔹 Frontend: HTML, CSS, JavaScript
 🔹 Backend: Node.js, Express.js
@@ -52,20 +56,26 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ```sh
 git clone https://github.com/YourUsername/Nutri-Track.git
 
+
 2️⃣ Open the Project Folder
     cd Nutri-Track
+
 
 3️⃣ Run the Project (If Hosted Locally)
      Open index.html in your browser.
 
+
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
+
 
 📄 License
   This project is licensed under the MIT License.
 
+
 ## 🌐 Live Website  
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
+
 
 🌟 Support the Project
 ⭐ If you like this project, give it a star on GitHub! 🚀

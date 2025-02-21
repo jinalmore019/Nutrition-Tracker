@@ -82,10 +82,5 @@ git clone https://github.com/YourUsername/Nutri-Track.git
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
 
 
-🌑 Screen Layouts:
-
-
-
-
 🌟 Support the Project
 ⭐ If you like this project, give it a star on GitHub! 🚀

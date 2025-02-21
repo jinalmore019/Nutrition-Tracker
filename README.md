@@ -41,6 +41,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 🛠 Tech Stack
+
 🔹 Frontend: HTML, CSS, JavaScript
 
 🔹 Backend: Node.js, Express.js

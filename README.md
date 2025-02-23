@@ -108,9 +108,11 @@ Objective:
    npm start
    ```
 5. Open `http://localhost:3000` in your browser.
+   
 
 
 ---
+
 
 
 📢 Contributing
@@ -119,12 +121,15 @@ Objective:
 
    ---
 
+   
+
 
 📄 License
   This project is licensed under the MIT License.
 
   
   ---
+  
   
 
 
@@ -133,6 +138,8 @@ Objective:
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
 
 ---
+
+
 
 
 ## 🎥 Project Demo & Screenshots
@@ -176,6 +183,8 @@ Objective:
 
 
 ---
+
+
 
 
 ## 📊 Project Presentation  

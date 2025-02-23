@@ -152,6 +152,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 🌟 Support the Project
+
 ⭐ If you like this project, give it a star on GitHub! 🚀
 
 

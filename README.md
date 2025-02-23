@@ -13,22 +13,7 @@ Nutrition Tracker is a smart health tracking and meal planning application desig
 Whether you are diet-conscious, a fitness enthusiast, or someone looking for a healthier lifestyle, this application helps track meals, monitor progress, and get nutritional insights.
 
 
-## 🎥 Project Demo & Screenshots
-![Nutri Track Demo](assets/demo.gif)  
-
 ---
-
-
-
-##Screenshots
-
-![lending page](https://github.com/user-attachments/assets/654a4f18-3e9c-45b5-87bb-30481bbbbb40)
-
-
-
-
-
-
 
 
 ## 📌 Features  
@@ -80,9 +65,6 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ---
 
 
-
-
-
 ## 📜 Installation & Setup
 1. Clone the repository:
    ```sh
@@ -102,8 +84,6 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 5. Open `http://localhost:3000` in your browser.
 
 
-
-
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
 
@@ -116,5 +96,17 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
 
 
+## 🎥 Project Demo & Screenshots
+
+
+
+
+##Screenshots
+
+
+
 🌟 Support the Project
 ⭐ If you like this project, give it a star on GitHub! 🚀
+
+
+

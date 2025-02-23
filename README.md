@@ -80,11 +80,14 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
    npm install
    ```
 3. Set up environment variables (create a `.env` file and configure the database, API keys, etc.)
+   
 4. Start the application:
    ```sh
    npm start
    ```
 5. Open `http://localhost:3000` in your browser.
+
+
 
 
 📢 Contributing

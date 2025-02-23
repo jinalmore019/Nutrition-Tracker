@@ -32,21 +32,34 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 ## 📌 Features  
 
-✅ **User Authentication** - Secure login and registration system.  
+✅ Admin Panel - Manage users, content, and settings with an intuitive dashboard.
 
-✅ **Meal Selection** - Add and track meals with nutrition details.  
+✅ User Authentication (Login & Sign Up) - Secure login and signup system with JWT authentication.
 
-✅ **Calorie & BMI Tracking** - Monitor daily calorie intake and calculate BMI.  
+✅ BMI Calculator - Calculate Body Mass Index based on height and weight.
 
-✅ **Water Intake Tracker** - Keep track of daily hydration.  
+✅ Calorie Tracker - Log daily food intake and monitor calorie consumption.
 
-✅ **Personalized Recommendations** - Smart suggestions for meal choices.  
+✅ Diet Plan Generator - Get personalized diet plans based on health goals.
 
-✅ **Search & Filter** - Easily find food items and nutrition details.  
+✅ Meal Reminders - Set reminders to eat meals on time.
 
-✅ **History & Analytics** - View past meals and progress reports.  
+✅ Progress Tracker - Visual representation of user progress over time.
 
-✅ **Feedback & Ratings** - Users can rate meals and leave feedback.  
+✅ Step Tracker - Track daily steps and maintain activity goals.
+
+✅ Sleep Tracker - Log and analyze sleeping patterns.
+
+✅ Water Intake Tracker - Monitor daily water consumption.
+
+✅ Fitness Challenge System - Participate in fitness challenges to stay motivated.
+
+✅ AI Feedback & Rating System - AI-powered feedback on diet and workout performance.
+
+✅ Notifications & Reminders - Get timely alerts for meals, workouts, and goals.
+
+✅ Dark Mode & Theme Toggle - Switch between light and dark themes for better user experience.
+
 
 ---
 

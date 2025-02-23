@@ -111,6 +111,9 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 ##Screenshots
+
+#LENDING PAGE
+
 ![lending page](https://github.com/user-attachments/assets/a93d7f1e-ae13-459b-845c-bbaf15d3b6ad)
 
 ![login signup admin](https://github.com/user-attachments/assets/88cb20c4-049c-43b1-b92d-27d6432a933c)

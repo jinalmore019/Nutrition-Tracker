@@ -111,12 +111,14 @@ Objective:
    
 
 
+
 ---
 
 
 
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
+
 
 
    ---
@@ -128,9 +130,11 @@ Objective:
   This project is licensed under the MIT License.
 
   
+
   ---
   
   
+
 
 
 
@@ -138,6 +142,7 @@ Objective:
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
 
 ---
+
 
 
 
@@ -189,7 +194,7 @@ Objective:
 
 ## 📊 Project Presentation  
 
-You can view the detailed project presentation [here](path/to/presentation.pdf).
+You can view the detailed project presentation [here]().
 
 
 ---

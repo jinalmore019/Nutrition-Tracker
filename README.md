@@ -86,14 +86,18 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 
+
+
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
+
    
 
 
 📄 License
   This project is licensed under the MIT License.
   
+
 
 
 ## 🌐 Live Website  
@@ -107,6 +111,7 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 ##Screenshots
+![lending page](https://github.com/user-attachments/assets/a93d7f1e-ae13-459b-845c-bbaf15d3b6ad)
 
 
 

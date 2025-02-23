@@ -110,18 +110,21 @@ Objective:
 5. Open `http://localhost:3000` in your browser.
 
 
-
-
+---
 
 
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
 
-   
+
+   ---
 
 
 📄 License
   This project is licensed under the MIT License.
+
+  
+  ---
   
 
 
@@ -129,6 +132,7 @@ Objective:
 ## 🌐 Live Website  
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
 
+---
 
 
 ## 🎥 Project Demo & Screenshots
@@ -171,6 +175,15 @@ Objective:
 ![progress](https://github.com/user-attachments/assets/12dd0fe8-048e-4778-97a2-23926c09b3b6)
 
 
+---
+
+
+## 📊 Project Presentation  
+
+You can view the detailed project presentation [here](path/to/presentation.pdf).
+
+
+---
 
 
 

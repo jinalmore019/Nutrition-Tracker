@@ -19,6 +19,17 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ---
 
 
+##ScreenShorts
+
+
+
+
+
+
+
+
+
+
 ## 📌 Features  
 
 ✅ **User Authentication** - Secure login and registration system.  
@@ -56,19 +67,24 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 
 
 
-## 📂 Installation  
-
-1️⃣ **Clone the Repository**  
-```sh
-git clone https://github.com/YourUsername/Nutri-Track.git
 
 
-2️⃣ Open the Project Folder
-    cd Nutri-Track
-
-
-3️⃣ Run the Project (If Hosted Locally)
-     Open index.html in your browser.
+## 📜 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Nutrition-Tracker.git
+   cd Nutrition-Tracker-main
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Set up environment variables (create a `.env` file and configure the database, API keys, etc.)
+4. Start the application:
+   ```sh
+   npm start
+   ```
+5. Open `http://localhost:3000` in your browser.
 
 
 📢 Contributing

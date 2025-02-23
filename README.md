@@ -13,7 +13,7 @@ Nutrition Tracker is a smart health tracking and meal planning application desig
 Whether you are diet-conscious, a fitness enthusiast, or someone looking for a healthier lifestyle, this application helps track meals, monitor progress, and get nutritional insights.
 
 
-## 🎥 Project Demo  
+## 🎥 Project Demo & Screenshots
 ![Nutri Track Demo](assets/demo.gif)  
 
 ---

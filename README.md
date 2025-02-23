@@ -16,12 +16,28 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ---
 
 
-📌 Abstract
-
+## 📌 Abstract
 
 In today's fast-paced world, maintaining a healthy lifestyle has become a challenge. Many individuals struggle to track their nutritional intake, monitor their physical activities, and receive timely reminders for healthy habits. NutriTrack is a smart web application designed to help users monitor their diet, track their fitness progress, and receive timely notifications and reminders to achieve their health goals.
 
 
+---
+
+## 📌 Scope and Objective
+
+Scope:
+ Using of the NutriTrack is to simplify health management for users by offering tools like calorie calculators, progress trackers, and personalized meal plans
+Using of NutriTrack , Users can register/login, access personalized, dashboards, and track their progress through interactive visuals and notifications.
+Using of NutriTrack  , Admins can oversee user data, monitor progress, and manage system operations to ensure smooth functionality.
+
+
+Objective:
+ To Implement features like BMI calculation, calorie tracking, and real-time meal reminders to assist users in managing their health effectively.
+ To  Design an interactive dashboard that centralizes diet plans, progress tracking, and water intake monitoring for a personalized user experience.
+ To Develop secure registration, login, and admin management systems to  protect user data and provide transparency in progress tracking.
+
+
+---
 
 
 ## 📌 Features  

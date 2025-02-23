@@ -84,16 +84,21 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 5. Open `http://localhost:3000` in your browser.
 
 
+
+
 📢 Contributing
    We welcome contributions! Feel free to fork the repository and create pull requests.
+   
 
 
 📄 License
   This project is licensed under the MIT License.
+  
 
 
 ## 🌐 Live Website  
 🔗 [Click Here to Open Nutri Track]( https://jinalmore019.github.io/Nutrition-Tracker/)
+
 
 
 ## 🎥 Project Demo & Screenshots

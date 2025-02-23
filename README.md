@@ -16,6 +16,9 @@ Whether you are diet-conscious, a fitness enthusiast, or someone looking for a h
 ---
 
 
+📌 Abstract
+
+
 In today's fast-paced world, maintaining a healthy lifestyle has become a challenge. Many individuals struggle to track their nutritional intake, monitor their physical activities, and receive timely reminders for healthy habits. NutriTrack is a smart web application designed to help users monitor their diet, track their fitness progress, and receive timely notifications and reminders to achieve their health goals.
 
 

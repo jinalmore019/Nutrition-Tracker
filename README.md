@@ -52,6 +52,8 @@ Objective:
 
 ✅ Diet Plan Generator - Get personalized diet plans based on health goals.
 
+✅ Meal Selection - Choose meals from a predefined list or add custom meals based on your preference. - Set reminders to eat meals on time.
+
 ✅ Meal Reminders - Set reminders to eat meals on time.
 
 ✅ Progress Tracker - Visual representation of user progress over time.
